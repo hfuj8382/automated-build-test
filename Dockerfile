@@ -1,2 +1,2 @@
-FROM dockersamples/statis-site
+FROM dockersamples/static-site
 ENV AUTHOR="Hiroki Fujiwara"
